@@ -1,4 +1,4 @@
-# tb_viz
+# Taco Bell Visualizations
 ![Taco Bell Scatter Plot](iterations/tb-scatter-8.png)
 ## Project setup
 ```
