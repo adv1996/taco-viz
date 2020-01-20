@@ -1,0 +1,973 @@
+{
+  "Value Menu": [
+    {
+      "name": "Nacho Crunch Double Stacked Taco",
+      "link": "/food/tacos/nacho-crunch-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26018_nacho_crunch_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Chipotle Cheddar Double Stacked Taco",
+      "link": "/food/tacos/chipotle-cheddar-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26057_chipotle_cheddar_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Reaper Ranch Double Stacked Taco",
+      "link": "/food/tacos/reaper-ranch-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26058_reaper_ranch_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Beefy Fritos Burrito",
+      "link": "/food/burritos/beefy-fritos-burrito",
+      "price": 1.0,
+      "calories": "440",
+      "picture": "https://www.tacobell.com/images/22480_beefy_fritos_burrito_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Bean and Rice Burrito",
+      "link": "/food/cravings-value-menu/cheesy-bean-and-rice-burrito",
+      "price": 1.0,
+      "calories": "410",
+      "picture": "https://www.tacobell.com/images/22283_cheesy_bean_and_rice_burrito_269x269.jpg"
+    },
+    {
+      "name": "Shredded Chicken Quesadilla Melt",
+      "link": "/food/quesadillas/shredded-chicken-quesadilla-melt",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/28149_shredded_chicken_quesadilla_melt_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Roll Up",
+      "link": "/food/sides/cheesy-roll-up",
+      "price": 1.0,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22152_cheesy_roll_up_269x269.jpg"
+    },
+    {
+      "name": "Cinnamon Twists",
+      "link": "/food/sweets/cinnamon-twists",
+      "price": 1.0,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22525_cinnamon_twists_269x269.jpg"
+    },
+    {
+      "name": "Spicy Potato Soft Taco",
+      "link": "/food/cravings-value-menu/spicy-potato-soft-taco",
+      "price": 1.0,
+      "calories": "230",
+      "picture": "https://www.tacobell.com/images/22259_spicy_potato_soft_taco_269x269.jpg"
+    },
+    {
+      "name": "Spicy Tostada",
+      "link": "/food/cravings-value-menu/spicy-tostada",
+      "price": 1.0,
+      "calories": "190",
+      "picture": "https://www.tacobell.com/images/22482_spicy_tostada_269x269.jpg"
+    },
+    {
+      "name": "Triple Layer Nachos",
+      "link": "/food/nachos/triple-layer-nachos",
+      "price": 1.0,
+      "calories": "320",
+      "picture": "https://www.tacobell.com/images/22151_triple_layer_nachos_269x269.jpg"
+    }
+  ],
+  "Sides": [
+    {
+      "name": "Cheesy Fiesta Potatoes",
+      "link": "/food/sides/cheesy-fiesta-potatoes",
+      "price": 1.59,
+      "calories": "230",
+      "picture": "https://www.tacobell.com/images/22530_cheesy_fiesta_potatoes_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Roll Up",
+      "link": "/food/sides/cheesy-roll-up",
+      "price": 1.0,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22152_cheesy_roll_up_269x269.jpg"
+    },
+    {
+      "name": "Chips and Nacho Cheese Sauce",
+      "link": "/food/nachos/chips-and-nacho-cheese-sauce",
+      "price": 1.69,
+      "calories": "220",
+      "picture": "https://www.tacobell.com/images/22500_chips_and_nacho_cheese_sauce_269x269.jpg"
+    },
+    {
+      "name": "Chips and Guacamole",
+      "link": "/food/nachos/chips-and-guacamole",
+      "price": 1.59,
+      "calories": "230",
+      "picture": "https://www.tacobell.com/images/22380_chips_and_guacamole_269x269.jpg"
+    },
+    {
+      "name": "Chips and Pico De Gallo",
+      "link": "/food/nachos/chips-and-pico-de-gallo",
+      "price": 1.59,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22166_chips_and_pico_de_gallo_269x269.jpg"
+    },
+    {
+      "name": "Black Beans",
+      "link": "/food/sides/black-beans",
+      "price": 1.49,
+      "calories": "50",
+      "picture": "https://www.tacobell.com/images/22394_black_beans_269x269.jpg"
+    },
+    {
+      "name": "Black Beans and Rice",
+      "link": "/food/sides/black-beans-and-rice",
+      "price": 1.49,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22393_black_beans_and_rice_269x269.jpg"
+    }
+  ],
+  "Breakfast": [
+    {
+      "name": "Grilled Breakfast Burrito",
+      "link": "/food/breakfast/grilled-breakfast-burrito-bacon",
+      "price": 1.0,
+      "calories": "350",
+      "picture": "https://www.tacobell.com/images/30076_grilled_breakfast_burrito_bacon_269x269.jpg"
+    },
+    {
+      "name": "Grilled Breakfast Burrito Fiesta Potato",
+      "link": "/food/breakfast/grilled-breakfast-burrito-fiesta-potato",
+      "price": 1.0,
+      "calories": "340",
+      "picture": "https://www.tacobell.com/images/30089_grilled_breakfast_burrito_fiesta_potato_269x269.jpg"
+    },
+    {
+      "name": "Breakfast Crunchwrap",
+      "link": "/food/breakfast/breakfast-crunchwrap",
+      "price": 2.79,
+      "calories": "650",
+      "picture": "https://www.tacobell.com/images/30029_breakfast_crunchwrap_269x269.jpg"
+    },
+    {
+      "name": "Breakfast Crunchwrap Combo",
+      "link": "/food/deals-and-combos/breakfast-crunchwrap-combo",
+      "price": 4.99,
+      "calories": "810-1090",
+      "picture": "https://www.tacobell.com/images/32031_17._breakfast_crunchwrap_combo_269x269.jpg"
+    },
+    {
+      "name": "Grande Scrambler",
+      "link": "/food/breakfast/grande-scrambler",
+      "price": 2.79,
+      "calories": "650",
+      "picture": "https://www.tacobell.com/images/30088_grande_scrambler_269x269.jpg"
+    },
+    {
+      "name": "Grande Scrambler Combo",
+      "link": "/food/deals-and-combos/grande-scrambler-combo",
+      "price": 4.99,
+      "calories": "810-1090",
+      "picture": "https://www.tacobell.com/images/32049_18._grande_scrambler_combo_269x269.jpg"
+    },
+    {
+      "name": "Breakfast Quesadilla",
+      "link": "/food/breakfast/breakfast-quesadilla",
+      "price": 2.29,
+      "calories": "510",
+      "picture": "https://www.tacobell.com/images/30151_breakfast_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Breakfast Quesadilla Combo",
+      "link": "/food/deals-and-combos/breakfast-quesadilla-combo",
+      "price": 4.39,
+      "calories": "670-950",
+      "picture": "https://www.tacobell.com/images/30154_19._breakfast_quesadilla_combo_269x269.jpg"
+    },
+    {
+      "name": "Cinnabon Delights 12 Pack",
+      "link": "/food/sweets/cinnabon-delights-12-pack",
+      "price": 4.99,
+      "calories": "930",
+      "picture": "https://www.tacobell.com/images/30045_cinnabon_delights_12_pack_269x269.jpg"
+    },
+    {
+      "name": "Cinnabon Delights 2 Pack",
+      "link": "/food/sweets/cinnabon-delights-2-pack",
+      "price": 1.0,
+      "calories": "160",
+      "picture": "https://www.tacobell.com/images/30046_cinnabon_delights_2_pack_269x269.jpg"
+    },
+    {
+      "name": "Breakfast Soft Taco",
+      "link": "/food/breakfast/breakfast-soft-taco",
+      "price": 1.0,
+      "calories": "230",
+      "picture": "https://www.tacobell.com/images/30125_breakfast_soft_taco_269x269.jpg"
+    },
+    {
+      "name": "Sausage Flatbread Quesadilla",
+      "link": "/food/breakfast/sausage-flatbread-quesadilla",
+      "price": 1.0,
+      "calories": "330",
+      "picture": "https://www.tacobell.com/images/30133_sausage_flatbread_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Hash Brown",
+      "link": "/food/breakfast/hash-brown",
+      "price": 1.0,
+      "calories": "160",
+      "picture": "https://www.tacobell.com/images/30017_hash_brown_269x269.jpg"
+    },
+    {
+      "name": "Mini Skillet Bowl",
+      "link": "/food/breakfast/mini-skillet-bowl",
+      "price": 1.0,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/30127_mini_skillet_bowl_269x269.jpg"
+    },
+    {
+      "name": "Mountain Dew Kickstart Orange Citrus - Small",
+      "link": "/food/breakfast/mountain-dew-kickstart-orange-citrus-small",
+      "price": 1.0,
+      "calories": "70",
+      "picture": "https://www.tacobell.com/images/1572_mountain_dew_kickstart_orange_citrus_ed_269x269.jpg"
+    }
+  ],
+  "Burritos": [
+    {
+      "name": "Quesarito",
+      "link": "/food/burritos/quesarito",
+      "price": 3.19,
+      "calories": "650",
+      "picture": "https://www.tacobell.com/images/22371_quesarito_269x269.jpg"
+    },
+    {
+      "name": "Beefy Fritos Burrito",
+      "link": "/food/burritos/beefy-fritos-burrito",
+      "price": 1.0,
+      "calories": "440",
+      "picture": "https://www.tacobell.com/images/22480_beefy_fritos_burrito_269x269.jpg"
+    },
+    {
+      "name": "Bean Burrito",
+      "link": "/food/burritos/bean-burrito",
+      "price": 1.29,
+      "calories": "350",
+      "picture": "https://www.tacobell.com/images/22200_bean_burrito_269x269.jpg"
+    },
+    {
+      "name": "Beefy 5-Layer Burrito",
+      "link": "/food/burritos/beefy-5-layer-burrito",
+      "price": 2.39,
+      "calories": "490",
+      "picture": "https://www.tacobell.com/images/22167_beefy_5_layer_burrito_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Bean and Rice Burrito",
+      "link": "/food/cravings-value-menu/cheesy-bean-and-rice-burrito",
+      "price": 1.0,
+      "calories": "410",
+      "picture": "https://www.tacobell.com/images/22283_cheesy_bean_and_rice_burrito_269x269.jpg"
+    },
+    {
+      "name": "Shredded Chicken Burrito",
+      "link": "/food/burritos/shredded-chicken-burrito",
+      "price": 2.49,
+      "calories": "420",
+      "picture": "https://www.tacobell.com/images/22453_shredded_chicken_burrito_269x269.jpg"
+    },
+    {
+      "name": "Burrito Supreme",
+      "link": "/food/burritos/burrito-supreme",
+      "price": 3.49,
+      "calories": "390",
+      "picture": "https://www.tacobell.com/images/22201_burrito_supreme_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Potato Griller",
+      "link": "/food/burritos/cheesy-potato-griller",
+      "price": 1.99,
+      "calories": "340",
+      "picture": "https://www.tacobell.com/images/22184_cheesy_potato_griller_269x269.jpg"
+    },
+    {
+      "name": "Beefy Nacho Griller",
+      "link": "/food/burritos/beefy-nacho-griller",
+      "price": 1.99,
+      "calories": "370",
+      "picture": "https://www.tacobell.com/images/22186_beefy_nacho_griller_269x269.jpg"
+    },
+    {
+      "name": "7-Layer Burrito",
+      "link": "/food/burritos/7-layer-burrito",
+      "price": 3.29,
+      "calories": "420",
+      "picture": "https://www.tacobell.com/images/22240_7-layer_burrito_269x269.jpg"
+    },
+    {
+      "name": "Crunchwrap Supreme",
+      "link": "/food/specialties/crunchwrap-supreme",
+      "price": 3.69,
+      "calories": "530",
+      "picture": "https://www.tacobell.com/images/22362_crunchwrap_supreme_269x269.jpg"
+    }
+  ],
+  "Specialties": [
+    {
+      "name": "Black Bean Crunchwrap Supreme",
+      "link": "/food/specialties/black-bean-crunchwrap-supreme",
+      "price": 3.69,
+      "calories": "510",
+      "picture": "https://www.tacobell.com/images/26051_vegetarian_crunchwrap_269x269.jpg"
+    },
+    {
+      "name": "Black Bean Quesarito",
+      "link": "/food/specialties/black-bean-quesarito",
+      "price": 3.19,
+      "calories": "630",
+      "picture": "https://www.tacobell.com/images/26052_black_bean_quesarito_269x269.jpg"
+    },
+    {
+      "name": "Crunchwrap Supreme",
+      "link": "/food/specialties/crunchwrap-supreme",
+      "price": 3.69,
+      "calories": "530",
+      "picture": "https://www.tacobell.com/images/22362_crunchwrap_supreme_269x269.jpg"
+    },
+    {
+      "name": "Chalupa Supreme",
+      "link": "/food/specialties/chalupa-supreme",
+      "price": 2.99,
+      "calories": "350",
+      "picture": "https://www.tacobell.com/images/22850_chalupa_supreme_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Gordita Crunch",
+      "link": "/food/specialties/cheesy-gordita-crunch",
+      "price": 3.59,
+      "calories": "500",
+      "picture": "https://www.tacobell.com/images/22813_cheesy_gordita_crunch_269x269.jpg"
+    },
+    {
+      "name": "Power Menu Bowl",
+      "link": "/food/specialties/power-menu-bowl",
+      "price": 5.49,
+      "calories": "480",
+      "picture": "https://www.tacobell.com/images/22488_power_menu_bowl_269x269.jpg"
+    },
+    {
+      "name": "Power Menu Bowl - Veggie",
+      "link": "/food/specialties/power-menu-bowl-veggie",
+      "price": 5.49,
+      "calories": "430",
+      "picture": "https://www.tacobell.com/images/22490_power_menu_bowl_-_veggie_269x269.jpg"
+    },
+    {
+      "name": "Mexican Pizza",
+      "link": "/food/specialties/mexican-pizza",
+      "price": 3.89,
+      "calories": "530",
+      "picture": "https://www.tacobell.com/images/22303_mexican_pizza_269x269.jpg"
+    },
+    {
+      "name": "Fiesta Taco Salad",
+      "link": "/food/specialties/fiesta-taco-salad",
+      "price": 5.59,
+      "calories": "740",
+      "picture": "https://www.tacobell.com/images/22297_fiesta_taco_salad_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Roll Up",
+      "link": "/food/sides/cheesy-roll-up",
+      "price": 1.0,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22152_cheesy_roll_up_269x269.jpg"
+    },
+    {
+      "name": "Soft Taco Supreme",
+      "link": "/food/tacos/soft-taco-supreme",
+      "price": 1.79,
+      "calories": "210",
+      "picture": "https://www.tacobell.com/images/22111_soft_taco_supreme_269x269.jpg"
+    },
+    {
+      "name": "Soft Taco",
+      "link": "/food/tacos/soft-taco",
+      "price": 1.29,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22110_soft_taco_269x269.jpg"
+    },
+    {
+      "name": "Crunchy Taco",
+      "link": "/food/tacos/crunchy-taco",
+      "price": 1.29,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22100_crunchy_taco_269x269.jpg"
+    },
+    {
+      "name": "Nacho Cheese Doritos Locos Tacos",
+      "link": "/food/tacos/nacho-cheese-doritos-locos-tacos",
+      "price": 1.89,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22172_nacho_cheese_doritos_locos_tacos_269x269.jpg"
+    },
+    {
+      "name": "Steak Quesadilla",
+      "link": "/food/quesadillas/steak-quesadilla",
+      "price": 3.99,
+      "calories": "500",
+      "picture": "https://www.tacobell.com/images/22322_steak_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Quesarito",
+      "link": "/food/burritos/quesarito",
+      "price": 3.19,
+      "calories": "650",
+      "picture": "https://www.tacobell.com/images/22371_quesarito_269x269.jpg"
+    },
+    {
+      "name": "Chicken Quesadilla",
+      "link": "/food/quesadillas/chicken-quesadilla",
+      "price": 3.79,
+      "calories": "500",
+      "picture": "https://www.tacobell.com/images/22321_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Spicy Tostada",
+      "link": "/food/cravings-value-menu/spicy-tostada",
+      "price": 1.0,
+      "calories": "190",
+      "picture": "https://www.tacobell.com/images/22482_spicy_tostada_269x269.jpg"
+    },
+    {
+      "name": "Beefy Fritos Burrito",
+      "link": "/food/burritos/beefy-fritos-burrito",
+      "price": 1.0,
+      "calories": "440",
+      "picture": "https://www.tacobell.com/images/22480_beefy_fritos_burrito_269x269.jpg"
+    },
+    {
+      "name": "Nachos BellGrande",
+      "link": "/food/nachos/nachos-bellgrande",
+      "price": 3.69,
+      "calories": "740",
+      "picture": "https://www.tacobell.com/images/22502_nachos_bellgrande_269x269.jpg"
+    }
+  ],
+  "New": [
+    {
+      "name": "Nacho Crunch Double Stacked Taco",
+      "link": "/food/tacos/nacho-crunch-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26018_nacho_crunch_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Chipotle Cheddar Double Stacked Taco",
+      "link": "/food/tacos/chipotle-cheddar-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26057_chipotle_cheddar_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Reaper Ranch Double Stacked Taco",
+      "link": "/food/tacos/reaper-ranch-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26058_reaper_ranch_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Chalupa Box",
+      "link": "/food/deals-and-combos/chalupa-box",
+      "price": 5.0,
+      "calories": "830-1110",
+      "picture": "https://www.tacobell.com/images/26059_new_cravings_box_269x269.jpg"
+    },
+    {
+      "name": "Deluxe Box",
+      "link": "/food/deals-and-combos/deluxe-box",
+      "price": 7.0,
+      "calories": "1210-1490",
+      "picture": "https://www.tacobell.com/images/23097_steak_chalupa_deluxe_box_269x269.jpg"
+    },
+    {
+      "name": "Electric Blue Raspberry Freeze",
+      "link": "/food/drinks/electric-blue-raspberry-freeze",
+      "price": 2.69,
+      "calories": "140-180",
+      "picture": "https://www.tacobell.com/images/1661_electric_blue_raspberry_freeze_269x269.jpg"
+    },
+    {
+      "name": "Blue Raspberry Freeze",
+      "link": "/food/drinks/blue-raspberry-freeze",
+      "price": 2.69,
+      "calories": "120-150",
+      "picture": "https://www.tacobell.com/images/1663_blue_raspberry_freeze_269x269.jpg"
+    }
+  ],
+  "Quesadillas": [
+    {
+      "name": "Shredded Chicken Quesadilla Melt",
+      "link": "/food/quesadillas/shredded-chicken-quesadilla-melt",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/28149_shredded_chicken_quesadilla_melt_269x269.jpg"
+    },
+    {
+      "name": "Chicken Quesadilla",
+      "link": "/food/quesadillas/chicken-quesadilla",
+      "price": 3.79,
+      "calories": "500",
+      "picture": "https://www.tacobell.com/images/22321_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Chicken Quesadilla Combo",
+      "link": "/food/deals-and-combos/chicken-quesadilla-combo",
+      "price": 6.59,
+      "calories": "670-1090",
+      "picture": "https://www.tacobell.com/images/22607_7._quesadilla_combo_269x269.jpg"
+    },
+    {
+      "name": "Steak Quesadilla",
+      "link": "/food/quesadillas/steak-quesadilla",
+      "price": 3.99,
+      "calories": "500",
+      "picture": "https://www.tacobell.com/images/22322_steak_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Cheese Quesadilla",
+      "link": "/food/quesadillas/cheese-quesadilla",
+      "price": 2.99,
+      "calories": "450",
+      "picture": "https://www.tacobell.com/images/22320_cheese_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Quesarito",
+      "link": "/food/burritos/quesarito",
+      "price": 3.19,
+      "calories": "650",
+      "picture": "https://www.tacobell.com/images/22371_quesarito_269x269.jpg"
+    }
+  ],
+  "Combos": [
+    {
+      "name": "Chalupa Box",
+      "link": "/food/deals-and-combos/chalupa-box",
+      "price": 5.0,
+      "calories": "830-1110",
+      "picture": "https://www.tacobell.com/images/26059_new_cravings_box_269x269.jpg"
+    },
+    {
+      "name": "Deluxe Box",
+      "link": "/food/deals-and-combos/deluxe-box",
+      "price": 7.0,
+      "calories": "1210-1490",
+      "picture": "https://www.tacobell.com/images/23097_steak_chalupa_deluxe_box_269x269.jpg"
+    },
+    {
+      "name": "3 Crunchy Tacos Supreme Combo",
+      "link": "/food/deals-and-combos/3-crunchy-tacos-supreme-combo",
+      "price": 6.59,
+      "calories": "570-990",
+      "picture": "https://www.tacobell.com/images/22603_3._3_crunchy_tacos_supreme_combo_269x269.jpg"
+    },
+    {
+      "name": "3 Crunchy Tacos Combo",
+      "link": "/food/deals-and-combos/3-crunchy-or-soft-tacos-combo",
+      "price": 5.79,
+      "calories": "510-930",
+      "picture": "https://www.tacobell.com/images/22608_8._3_crunchy_or_soft_tacos_combo_269x269.jpg"
+    },
+    {
+      "name": "3 Soft Tacos Supreme Combo",
+      "link": "/food/deals-and-combos/3-soft-tacos-supreme-combo",
+      "price": 6.59,
+      "calories": "630-1050",
+      "picture": "https://www.tacobell.com/images/23755_soft_taco_supreme_combo_269x269.jpg"
+    },
+    {
+      "name": "3 Soft Tacos Combo",
+      "link": "/food/deals-and-combos/3-soft-tacos-combo",
+      "price": 5.79,
+      "calories": "540-960",
+      "picture": "https://www.tacobell.com/images/23765_soft_tacos_combo_269x269.jpg"
+    },
+    {
+      "name": "Burrito Supreme Combo",
+      "link": "/food/deals-and-combos/burrito-supreme-combo",
+      "price": 6.29,
+      "calories": "580-1000",
+      "picture": "https://www.tacobell.com/images/22601_1._burrito_supreme_combo_269x269.jpg"
+    },
+    {
+      "name": "Steak Quesarito Combo",
+      "link": "/food/deals-and-combos/steak-quesarito-combo",
+      "price": 6.69,
+      "calories": "800-1220",
+      "picture": "https://www.tacobell.com/images/26049_steak_quesarito_combo_269x269.jpg"
+    },
+    {
+      "name": "Nachos BellGrande Combo",
+      "link": "/food/deals-and-combos/nachos-bellgrande-combo",
+      "price": 6.69,
+      "calories": "930-1350",
+      "picture": "https://www.tacobell.com/images/22605_5._nachos_bellgrande_combo_269x269.jpg"
+    },
+    {
+      "name": "2 Chicken Chalupas Supreme Combo",
+      "link": "/food/deals-and-combos/2-chicken-chalupas-supreme-combo",
+      "price": 8.19,
+      "calories": "830-1250",
+      "picture": "https://www.tacobell.com/images/23760_chicken_chalupas_supreme_combo_269x269.jpg"
+    },
+    {
+      "name": "Chicken Quesadilla Combo",
+      "link": "/food/deals-and-combos/chicken-quesadilla-combo",
+      "price": 6.59,
+      "calories": "670-1090",
+      "picture": "https://www.tacobell.com/images/22607_7._quesadilla_combo_269x269.jpg"
+    },
+    {
+      "name": "Mexican Pizza Combo",
+      "link": "/food/deals-and-combos/mexican-pizza-combo",
+      "price": 7.19,
+      "calories": "910-1330",
+      "picture": "https://www.tacobell.com/images/22604_4._mexican_pizza_combo_269x269.jpg"
+    },
+    {
+      "name": "Crunchwrap Supreme Combo",
+      "link": "/food/deals-and-combos/crunchwrap-supreme-combo",
+      "price": 6.69,
+      "calories": "700-1120",
+      "picture": "https://www.tacobell.com/images/22609_9._crunchwrap_supreme_combo_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Gordita Crunch Combo",
+      "link": "/food/deals-and-combos/cheesy-gordita-crunch-combo",
+      "price": 6.89,
+      "calories": "840-1260",
+      "picture": "https://www.tacobell.com/images/22573_10._cheesy_gordita_crunch_combo_269x269.jpg"
+    },
+    {
+      "name": "Breakfast Crunchwrap Combo",
+      "link": "/food/deals-and-combos/breakfast-crunchwrap-combo",
+      "price": 4.99,
+      "calories": "810-1090",
+      "picture": "https://www.tacobell.com/images/32031_17._breakfast_crunchwrap_combo_269x269.jpg"
+    },
+    {
+      "name": "Grande Scrambler Combo",
+      "link": "/food/deals-and-combos/grande-scrambler-combo",
+      "price": 4.99,
+      "calories": "810-1090",
+      "picture": "https://www.tacobell.com/images/32049_18._grande_scrambler_combo_269x269.jpg"
+    },
+    {
+      "name": "Breakfast Quesadilla Combo",
+      "link": "/food/deals-and-combos/breakfast-quesadilla-combo",
+      "price": 4.39,
+      "calories": "670-950",
+      "picture": "https://www.tacobell.com/images/30154_19._breakfast_quesadilla_combo_269x269.jpg"
+    }
+  ],
+  "Nachos": [
+    {
+      "name": "Nachos BellGrande",
+      "link": "/food/nachos/nachos-bellgrande",
+      "price": 3.69,
+      "calories": "740",
+      "picture": "https://www.tacobell.com/images/22502_nachos_bellgrande_269x269.jpg"
+    },
+    {
+      "name": "Nachos BellGrande Combo",
+      "link": "/food/deals-and-combos/nachos-bellgrande-combo",
+      "price": 6.69,
+      "calories": "930-1350",
+      "picture": "https://www.tacobell.com/images/22605_5._nachos_bellgrande_combo_269x269.jpg"
+    },
+    {
+      "name": "Nachos Supreme",
+      "link": "/food/nachos/nachos-supreme",
+      "price": 2.99,
+      "calories": "430",
+      "picture": "https://www.tacobell.com/images/22501_nachos_supreme_269x269.jpg"
+    },
+    {
+      "name": "Triple Layer Nachos",
+      "link": "/food/nachos/triple-layer-nachos",
+      "price": 1.0,
+      "calories": "320",
+      "picture": "https://www.tacobell.com/images/22151_triple_layer_nachos_269x269.jpg"
+    },
+    {
+      "name": "Chips and Nacho Cheese Sauce",
+      "link": "/food/nachos/chips-and-nacho-cheese-sauce",
+      "price": 1.69,
+      "calories": "220",
+      "picture": "https://www.tacobell.com/images/22500_chips_and_nacho_cheese_sauce_269x269.jpg"
+    },
+    {
+      "name": "Chips and Guacamole",
+      "link": "/food/nachos/chips-and-guacamole",
+      "price": 1.59,
+      "calories": "230",
+      "picture": "https://www.tacobell.com/images/22380_chips_and_guacamole_269x269.jpg"
+    },
+    {
+      "name": "Chips and Pico De Gallo",
+      "link": "/food/nachos/chips-and-pico-de-gallo",
+      "price": 1.59,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22166_chips_and_pico_de_gallo_269x269.jpg"
+    }
+  ],
+  "Vegetarian": [
+    {
+      "name": "Black Bean Crunchwrap Supreme",
+      "link": "/food/specialties/black-bean-crunchwrap-supreme",
+      "price": 3.69,
+      "calories": "510",
+      "picture": "https://www.tacobell.com/images/26051_vegetarian_crunchwrap_269x269.jpg"
+    },
+    {
+      "name": "Black Bean Quesarito",
+      "link": "/food/specialties/black-bean-quesarito",
+      "price": 3.19,
+      "calories": "630",
+      "picture": "https://www.tacobell.com/images/26052_black_bean_quesarito_269x269.jpg"
+    },
+    {
+      "name": "Power Menu Bowl - Veggie",
+      "link": "/food/specialties/power-menu-bowl-veggie",
+      "price": 5.49,
+      "calories": "430",
+      "picture": "https://www.tacobell.com/images/22490_power_menu_bowl_-_veggie_269x269.jpg"
+    },
+    {
+      "name": "Cheese Quesadilla",
+      "link": "/food/quesadillas/cheese-quesadilla",
+      "price": 2.99,
+      "calories": "450",
+      "picture": "https://www.tacobell.com/images/22320_cheese_quesadilla_269x269.jpg"
+    },
+    {
+      "name": "Bean Burrito",
+      "link": "/food/burritos/bean-burrito",
+      "price": 1.29,
+      "calories": "350",
+      "picture": "https://www.tacobell.com/images/22200_bean_burrito_269x269.jpg"
+    },
+    {
+      "name": "7-Layer Burrito",
+      "link": "/food/burritos/7-layer-burrito",
+      "price": 3.29,
+      "calories": "420",
+      "picture": "https://www.tacobell.com/images/22240_7-layer_burrito_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Roll Up",
+      "link": "/food/sides/cheesy-roll-up",
+      "price": 1.0,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22152_cheesy_roll_up_269x269.jpg"
+    },
+    {
+      "name": "Spicy Tostada",
+      "link": "/food/cravings-value-menu/spicy-tostada",
+      "price": 1.0,
+      "calories": "190",
+      "picture": "https://www.tacobell.com/images/22482_spicy_tostada_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Bean and Rice Burrito",
+      "link": "/food/cravings-value-menu/cheesy-bean-and-rice-burrito",
+      "price": 1.0,
+      "calories": "410",
+      "picture": "https://www.tacobell.com/images/22283_cheesy_bean_and_rice_burrito_269x269.jpg"
+    },
+    {
+      "name": "Black Beans and Rice",
+      "link": "/food/sides/black-beans-and-rice",
+      "price": 1.49,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22393_black_beans_and_rice_269x269.jpg"
+    }
+  ],
+  "Power Menu": [
+    {
+      "name": "Power Menu Bowl - Veggie",
+      "link": "/food/specialties/power-menu-bowl-veggie",
+      "price": 5.49,
+      "calories": "430",
+      "picture": "https://www.tacobell.com/images/22490_power_menu_bowl_-_veggie_269x269.jpg"
+    },
+    {
+      "name": "Power Menu Bowl",
+      "link": "/food/specialties/power-menu-bowl",
+      "price": 5.49,
+      "calories": "480",
+      "picture": "https://www.tacobell.com/images/22488_power_menu_bowl_269x269.jpg"
+    }
+  ],
+  "Tacos": [
+    {
+      "name": "Nacho Crunch Double Stacked Taco",
+      "link": "/food/tacos/nacho-crunch-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26018_nacho_crunch_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Chipotle Cheddar Double Stacked Taco",
+      "link": "/food/tacos/chipotle-cheddar-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26057_chipotle_cheddar_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Reaper Ranch Double Stacked Taco",
+      "link": "/food/tacos/reaper-ranch-double-stacked-taco",
+      "price": 1.0,
+      "calories": "310",
+      "picture": "https://www.tacobell.com/images/26058_reaper_ranch_double_stack_taco_269x269.jpg"
+    },
+    {
+      "name": "Soft Taco",
+      "link": "/food/tacos/soft-taco",
+      "price": 1.29,
+      "calories": "180",
+      "picture": "https://www.tacobell.com/images/22110_soft_taco_269x269.jpg"
+    },
+    {
+      "name": "Soft Taco Supreme",
+      "link": "/food/tacos/soft-taco-supreme",
+      "price": 1.79,
+      "calories": "210",
+      "picture": "https://www.tacobell.com/images/22111_soft_taco_supreme_269x269.jpg"
+    },
+    {
+      "name": "Crunchy Taco",
+      "link": "/food/tacos/crunchy-taco",
+      "price": 1.29,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22100_crunchy_taco_269x269.jpg"
+    },
+    {
+      "name": "Crunchy Taco Supreme",
+      "link": "/food/tacos/crunchy-taco-supreme",
+      "price": 1.79,
+      "calories": "190",
+      "picture": "https://www.tacobell.com/images/22101_crunchy_taco_supreme_269x269.jpg"
+    },
+    {
+      "name": "Cheesy Gordita Crunch",
+      "link": "/food/specialties/cheesy-gordita-crunch",
+      "price": 3.59,
+      "calories": "500",
+      "picture": "https://www.tacobell.com/images/22813_cheesy_gordita_crunch_269x269.jpg"
+    },
+    {
+      "name": "Chalupa Supreme",
+      "link": "/food/specialties/chalupa-supreme",
+      "price": 2.99,
+      "calories": "350",
+      "picture": "https://www.tacobell.com/images/22850_chalupa_supreme_269x269.jpg"
+    },
+    {
+      "name": "Nacho Cheese Doritos Locos Tacos",
+      "link": "/food/tacos/nacho-cheese-doritos-locos-tacos",
+      "price": 1.89,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22172_nacho_cheese_doritos_locos_tacos_269x269.jpg"
+    },
+    {
+      "name": "Nacho Cheese Doritos Locos Tacos Supreme",
+      "link": "/food/tacos/nacho-cheese-doritos-locos-tacos-supreme",
+      "price": 2.39,
+      "calories": "190",
+      "picture": "https://www.tacobell.com/images/22173_nacho_cheese_doritos_locos_tacos_supreme_269x269.jpg"
+    },
+    {
+      "name": "Grilled Steak Soft Taco",
+      "link": "/food/tacos/grilled-steak-soft-taco",
+      "price": 2.89,
+      "calories": "200",
+      "picture": "https://www.tacobell.com/images/22182_grilled_steak_soft_taco_269x269.jpg"
+    },
+    {
+      "name": "Chicken Soft Taco",
+      "link": "/food/tacos/chicken-soft-taco",
+      "price": 2.19,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22287_chicken_soft_taco_269x269.jpg"
+    },
+    {
+      "name": "Spicy Potato Soft Taco",
+      "link": "/food/cravings-value-menu/spicy-potato-soft-taco",
+      "price": 1.0,
+      "calories": "230",
+      "picture": "https://www.tacobell.com/images/22259_spicy_potato_soft_taco_269x269.jpg"
+    },
+    {
+      "name": "Fiesta Taco Salad",
+      "link": "/food/specialties/fiesta-taco-salad",
+      "price": 5.59,
+      "calories": "740",
+      "picture": "https://www.tacobell.com/images/22297_fiesta_taco_salad_269x269.jpg"
+    },
+    {
+      "name": "3 Crunchy Tacos Supreme Combo",
+      "link": "/food/deals-and-combos/3-crunchy-tacos-supreme-combo",
+      "price": 6.59,
+      "calories": "570-990",
+      "picture": "https://www.tacobell.com/images/22603_3._3_crunchy_tacos_supreme_combo_269x269.jpg"
+    },
+    {
+      "name": "3 Crunchy Tacos Combo",
+      "link": "/food/deals-and-combos/3-crunchy-or-soft-tacos-combo",
+      "price": 5.79,
+      "calories": "510-930",
+      "picture": "https://www.tacobell.com/images/22608_8._3_crunchy_or_soft_tacos_combo_269x269.jpg"
+    }
+  ],
+  "Sweets": [
+    {
+      "name": "Cinnamon Twists",
+      "link": "/food/sweets/cinnamon-twists",
+      "price": 1.0,
+      "calories": "170",
+      "picture": "https://www.tacobell.com/images/22525_cinnamon_twists_269x269.jpg"
+    },
+    {
+      "name": "Cinnabon Delights 12 Pack",
+      "link": "/food/sweets/cinnabon-delights-12-pack",
+      "price": 4.99,
+      "calories": "930",
+      "picture": "https://www.tacobell.com/images/30045_cinnabon_delights_12_pack_269x269.jpg"
+    },
+    {
+      "name": "Cinnabon Delights 2 Pack",
+      "link": "/food/sweets/cinnabon-delights-2-pack",
+      "price": 1.0,
+      "calories": "160",
+      "picture": "https://www.tacobell.com/images/30046_cinnabon_delights_2_pack_269x269.jpg"
+    },
+    {
+      "name": "Mountain Dew Baja Blast Freeze",
+      "link": "/food/drinks/mountain-dew-baja-blast-freeze",
+      "price": 2.69,
+      "calories": "180-230",
+      "picture": "https://www.tacobell.com/images/1491_mtn_dew_baja_blast_freeze_269x269.jpg"
+    },
+    {
+      "name": "Strawberry Skittles Freeze",
+      "link": "/food/drinks/strawberry-skittles-freeze",
+      "price": 2.69,
+      "calories": "160-210",
+      "picture": "https://www.tacobell.com/images/1615_strawberry_skittles_freeze_269x269.jpg"
+    }
+  ]
+}
