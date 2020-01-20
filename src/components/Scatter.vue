@@ -13,9 +13,9 @@ export default {
   data() {
     return {
       data: [],
-      height: 450,
-      width: 725,
-      margin: {top: 40, right: 10, bottom: 50, left: 90},
+      height: 500,
+      width: 950,
+      margin: {top: 40, right: 10, bottom: 50, left: 60},
     }
   },
   mounted () {
@@ -195,10 +195,11 @@ export default {
 
       let centerH = (height - this.margin.top - this.margin.bottom) / 2
       g.append('text')
-        .attr('x', -this.margin.left + 10)
-        .attr('y', centerH + 5) // why do we need to add 5 here, is there a programatic way to fix this
+        .attr('x', -centerH)
+        .attr('y', -this.margin.left / 2 - 5) // why do we need to add 5 here, is there a programatic way to fix this
         .text('Price ($)')
         .attr('class', 'yaxis_label')
+        .attr("transform", "rotate(-90)");
 
       // graph title
       g.append('text')
@@ -206,58 +207,17 @@ export default {
         .attr('y', 0)
         .text('Taco Bell Menu Items')
         .attr('class', 'title')
-      
-      g.selectAll('.tick').selectAll('line').remove()
 
       let ratioOrder = _.orderBy(this.data, ['ratio'], ['asc'])
       let leastEfficient = ratioOrder[0]
       let mostEfficient = ratioOrder[this.data.length - 1]
-      g.append('text')
-        .attr('x', xScale(mostEfficient.calories) + 17)
-        .attr('y', yScale(mostEfficient.price) + 8)
-        .text(mostEfficient.name)
-        .attr('class', 'annotations')
-      g.append('text')
-        .attr('x', xScale(mostEfficient.calories) + 30) // centering this label with the one above
-        .attr('y', yScale(mostEfficient.price) + 20)
-        .text('$' + mostEfficient.price + ' / ' + mostEfficient.calories + ' Cal')
-        .attr('class', 'annotations')
-      
-      // line for annotation to circle
-
-      g.append('line')
-        .attr('x1', xScale(mostEfficient.calories))
-        .attr('x2', xScale(mostEfficient.calories) + 15)
-        .attr('y1', yScale(mostEfficient.price))
-        .attr('y2', yScale(mostEfficient.price) + 5)
-        .attr('class', 'anno')
-        .lower()
-      
-      g.append('text')
-        .attr('x', xScale(leastEfficient.calories) - 12)
-        .attr('y', yScale(leastEfficient.price) - 26)
-        .text(leastEfficient.name)
-        .attr('class', 'annotations')
-      g.append('text')
-        .attr('x', xScale(leastEfficient.calories) - 12) // centering this label with the one above
-        .attr('y', yScale(leastEfficient.price) - 16)
-        .text('$' + leastEfficient.price + ' / ' + leastEfficient.calories + ' Cal')
-        .attr('class', 'annotations')
-      
-      g.append('line')
-        .attr('x1', xScale(leastEfficient.calories))
-        .attr('x2', xScale(leastEfficient.calories) + 8)
-        .attr('y1', yScale(leastEfficient.price))
-        .attr('y2', yScale(leastEfficient.price) - 13)
-        .attr('class', 'anno')
-        .lower()
       // color legend
       let dataLength = ratioOrder.length
       let colorLegend = [mostEfficient, ratioOrder[dataLength / 2], leastEfficient]
       let colorLegendBars = g.selectAll('colorLegendBars')
         .data(colorLegend)
         .join('rect')
-          .attr('x', xScale(1200))
+          .attr('x', xScale(1250))
           .attr('y', (d, i) => {
             return yScale(4) + i * 20
           })
@@ -266,13 +226,13 @@ export default {
           .attr('fill', d => colorScale(d.ratio))
       
       g.append('text')
-        .attr('x', xScale(1200) + 5)
+        .attr('x', xScale(1250) + 5)
         .attr('y', yScale(4) - 5)
         .text('Highest Cal / $')
         .attr('class', 'legendLabels')
       
       g.append('text')
-        .attr('x', xScale(1200) + 5)
+        .attr('x', xScale(1250) + 5)
         .attr('y', yScale(4) + 70)
         .text('Least Cal / $')
         .attr('class', 'legendLabels')
@@ -297,7 +257,7 @@ export default {
   text-anchor: middle;
   font-size: 18px;
   font-family: Helvetica;
-  font-weight: normal;
+  font-weight: 300;
 }
 .items {
   opacity: 0.8;
