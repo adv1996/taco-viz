@@ -1,5 +1,5 @@
 # tb_viz
-
+![Taco Bell Scatter Plot](iterations/tb-scatter-8.png)
 ## Project setup
 ```
 yarn install
